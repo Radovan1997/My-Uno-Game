@@ -5,4 +5,4 @@ Run the game by running the function play_game(number of players, number of star
 
 At each turn specify which card you wish to play. 
 
-There are no special cards such as reverse and +2, +4 or change color yet.
+There are no special cards such as reverse and +2, +4 and change color yet.
